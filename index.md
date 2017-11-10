@@ -1,12 +1,10 @@
 
- ﻿<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+ <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta name="Keywords" content="鞋业，副总，厂长，总裁助理，总经理助理，业务主管，生管主管，采购" />
   <meta name="Description" content="本人为人谦和不骄横,成熟稳重,稳定,责任感强,服从上级善待下级团结同事,长于沟通。
 做过文员,干过一线,当过部门主管,现在是老总助手。给我一个支点,看我把你的工作撬起。希望获得副总或厂长职位。
-十数年外资鞋业相关经验,看都看会了啊,更何况都是实战。尤善长于统筹全局,订单控制,样品、材料及生产进度控制,运筹帷幄,决胜千里。
- />
+十数年外资鞋业相关经验,看都看会了啊,更何况都是实战。尤善长于统筹全局,订单控制,样品、材料及生产进度控制,运筹帷幄,决胜千里。"/>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>刘四新的个人简历</title>
@@ -177,13 +175,6 @@
 	</table>
 </div><div class="unit edu">
 	<table cellspacing="0" cellpadding="0"  style="width:630px;" align="center">
-		<tr>
-			<td style="width:20px;"></td>
-			<td style="width:140px;"></td>
-			<td style="width:175px;"></td>
-			<td style="width:150px;"></td>
-			<td></td>
-		</tr>
 		<tr><td colspan="5" class="unit-title">教育经历</td></tr>
 		<tr class="row">
 			<td></td>
@@ -200,13 +191,6 @@
 	</table>
 </div><div class="unit train">
 	<table cellspacing="0" cellpadding="0"  style="width:630px;" align="center">
-		<tr>
-			<td style="width:20px;"></td>
-			<td style="width:140px;"></td>
-			<td style="width:175px;"></td>
-			<td style="width:150px;"></td>
-			<td></td>
-		</tr>
 		<tr><td colspan="5" class="unit-title">培训经历</td></tr>
 		<tr class="row">
 			<td></td>
@@ -240,13 +224,6 @@
 </div>
 <div class="unit work" >
 	<table cellspacing="0" cellpadding="0"  style="width:630px;" align="center">
-		<tr>
-			<td style="width:20px;"></td>
-			<td style="width:65px;"></td>
-			<td style="width:210px;"></td>
-			<td style="width:65px;"></td>
-			<td style="width:auto;"></td>
-		</tr>
 		<tr class="row">
 			<td colspan="5" class="unit-title">工作经验</span></td>
 		</tr>
@@ -486,11 +463,6 @@
 	</table>
 </div><div class="unit ability" >	
 	<table cellspacing="0" cellpadding="0"  style="width:630px;" align="center">
-		<tr>
-			<td style="width:20px;"></td>
-			<td style="width:98px;"></td>
-			<td></td>
-		</tr>
 		<tr class="row">
 			<td colspan="3" class="unit-title">技能专长</td>
 		</tr>
@@ -519,13 +491,6 @@
 	</table>
 </div><div class="unit language" >
 	<table cellspacing="0" cellpadding="0"  style="width:630px;" align="center">
-		<tr>
-			<td style="width:20px;"></td>
-			<td style="width:65px;"></td>
-			<td style="width:90px;"></td>
-			<td style="width:65px;"></td>
-			<td style="width:auto;"></td>
-		</tr>
 		<tr class="row">
 			<td colspan="5" class="unit-title">语言能力</td>
 		</tr>
@@ -557,11 +522,6 @@
 	</table>
 </div><div class="unit apply" >
 	<table cellspacing="0" cellpadding="0"  style="width:630px;" align="center">
-		<tr>
-			<td style="width:20px;"></td>
-			<td style="width:65px;"></td>
-			<td></td>
-		</tr>
 		<tr class="row">
 			<td colspan="3" class="unit-title">求职意向</td>
 		</tr>
@@ -578,11 +538,6 @@
 	</table>
 </div>   <div class="unit self" >
 	<table cellspacing="0" cellpadding="0"  style="width:630px;" align="center">
-		<tr>
-			<td style="width:20px;"></td>
-			<td style="width:65px;"></td>
-			<td></td>
-		</tr>
 		<tr class="row">
 			<td colspan="3" class="unit-title">自身情况</td>
 		</tr>
@@ -601,13 +556,6 @@
 	</table>
 </div><div class="contact_info" >
 	<table cellspacing="0" cellpadding="0"  style="width:630px;" align="center">
-		<tr>
-			<td style="width:20px;"></td>
-			<td style="width:65px;"></td>
-			<td style="width:250px;"></td>
-			<td style="width:65px;"></td>
-			<td></td>
-		</tr>
 		<tr class="row">
 			<td colspan="5" class="unit-title">联系方式</td>
 		</tr>
